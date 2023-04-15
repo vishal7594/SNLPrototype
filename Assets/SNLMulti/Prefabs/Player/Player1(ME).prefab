@@ -219,6 +219,7 @@ MonoBehaviour:
   userNameText: {fileID: 890569156090368350}
   seatIndex: 0
   chipsAmount: 0
+  isMyPlayer: 0
 --- !u!1 &890569156090368348
 GameObject:
   m_ObjectHideFlags: 0
