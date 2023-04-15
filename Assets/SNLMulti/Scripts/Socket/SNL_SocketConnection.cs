@@ -20,7 +20,7 @@ namespace PSM100.SNL
 
         private void Start()
         {
-            SocketInitiated();
+           // SocketInitiated();
         }
 
         private void SocketInitiated()
